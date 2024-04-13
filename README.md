@@ -25,6 +25,13 @@
   <a href="https://thanhtin4401.github.io/myWebSite/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+   <a href="face:https://www.facebook.com/minhkhang.kar3">
+    <img src="https://img.shields.io/badge/Facebook-333333?style=for-the-badge&logo=facebook&logoColor=blue" />
+    <a href="Youtube:https://www.youtube.com/@Hominhkhang03">
+    <img src="https://img.shields.io/badge/Youtube-333333?style=for-the-badge&logo=youtube&logoColor=red" />
+    <a href="Instagram:https://www.instagram.com/bbrriiaannhhoo">
+    <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=orange " />
+   
 </div>
 
 <h2 align="center">:money_with_wings: freelancer platform :money_with_wings:</h2>
